@@ -1,5 +1,5 @@
 # NLP-Bag-of-words
-In this project,I emplyed one simple natural language processing (NLP) algorithm known as bag-of-words to classify messages as ham or spam. Using bag of words and feature engineering related to NLP, we’ll get hands-on experience on a small dataset of one SMS message, a lot of SMS messages, and email for SPAM/HAM classification.
+In this project,I employed one simple natural language processing (NLP) algorithm known as bag-of-words to classify messages as ham or spam. Using bag of words and feature engineering related to NLP, we’ll get hands-on experience on a small dataset of one SMS message, a lot of SMS messages, and email for SPAM/HAM classification.
 
 Spam emails or messages belong to the broad category of unsolicited messages received by a user. Spam occupies unwanted space and bandwidth, amplifies the threat of viruses like trojans, and in general exploits a user’s connection to social networks.
 Various techniques are employed to filter out spam messages, usually centered on content-based filtering. This is because specific keywords, links, or websites are repeatedly sent in bulk to users, characterizing them as spam.
